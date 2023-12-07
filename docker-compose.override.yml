@@ -122,6 +122,14 @@ services:
         source: .\docker\data\sql
         target: c:\data
 
+  mssql-init:
+    image: ${REGISTRY}demo/${COMPOSE_PROJECT_NAME}-sitecore-xmcloud-mssql-init:${SITECORE_VERSION}
+    build:
+      context: ./docker/build/mssql-init
+      args:
+        PARENT_IMAGE: ${SITECORE_DOCKER_REGISTRY}sitecore-xmcloud-mssql-init:${SITECORE_VERSION}
+        CONNECTOR: rwsconnectorxm.azurecr.io/connector_tms_sitecore_xm_v-1.0.1
+
   # Mount our Solr data folder and use our retagged Solr image.
   # Some modules (like SXA) also require additions to the Solr image.
   solr:
