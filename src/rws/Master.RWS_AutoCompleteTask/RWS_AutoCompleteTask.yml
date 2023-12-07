@@ -1,0 +1,44 @@
+﻿---
+ID: "ba0dc935-b2dc-4653-a946-eef726accc81"
+Parent: "a705d262-5714-4880-9962-051e25f1416d"
+Template: "70244923-fa84-477c-8cbd-62f39642c42b"
+Path: /sitecore/system/Tasks/Schedules/RWS_AutoCompleteTask
+SharedFields:
+- ID: "50be51f8-746d-4dc2-9c3b-b14abc5ce9b7"
+  Hint: Schedule
+  Value: "20150101|99990101|127|00:05:00"
+- ID: "62e64dbb-0a39-4dd7-ba05-7bd08c5404e0"
+  Hint: Command
+  Value: "{22991F61-5095-457C-9C2F-762387399FCD}"
+- ID: "a2c0c7a2-697d-40e2-9516-54e0c2d6028e"
+  Hint: Async
+  Value: 1
+- ID: "b1e16562-f3f9-4ddd-84ca-6e099950ecc0"
+  Hint: Last run
+  Value: 20231110T064329Z
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210610T094445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f3afd7b-5f69-42f1-9c7c-e3ab265b0802"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Anonymous
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231110T064329Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "c01627de-d8fc-435b-a3b8-b8be9cfe2ed7"
+Parent: "59d65257-d668-4505-989d-d3781426dff2"
+Template: "8089e2fb-bea2-4136-a2a1-ccc39a0f99f4"
+Path: /sitecore/system/Modules/RWS Translation Module/Labels/Translation Projects/Complete Success
+Languages:
+- Language: en
+  Fields:
+  - ID: "e897df82-9690-42fb-aded-261e751f9024"
+    Hint: Text
+    Value: "Action completed succesfully!"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171101T194024Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f3c4dccd-5189-450c-b8d7-7f328c1b4cbf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190607T152900Z

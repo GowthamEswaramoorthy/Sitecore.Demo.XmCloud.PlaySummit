@@ -1,0 +1,27 @@
+﻿---
+ID: "ffbb1ff3-e838-4632-94de-43f20c1536ca"
+Parent: "59d65257-d668-4505-989d-d3781426dff2"
+Template: "8089e2fb-bea2-4136-a2a1-ccc39a0f99f4"
+Path: /sitecore/system/Modules/RWS Translation Module/Labels/Translation Projects/Project Status
+Languages:
+- Language: en
+  Fields:
+  - ID: "e897df82-9690-42fb-aded-261e751f9024"
+    Hint: Text
+    Value: Project Status
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171101T194128Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4154c09d-45d1-4b0f-9176-d4cb6922912e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sorina
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20171101T194205Z

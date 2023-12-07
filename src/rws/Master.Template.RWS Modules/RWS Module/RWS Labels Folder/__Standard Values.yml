@@ -1,0 +1,37 @@
+﻿---
+ID: "72bba14b-321b-4ebb-bb95-2c1be58ebccd"
+Parent: "6947f541-9ed7-475c-8028-3f311affa8ef"
+Template: "6947f541-9ed7-475c-8028-3f311affa8ef"
+Path: /sitecore/templates/RWS Module/RWS Labels Folder/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {6947F541-9ED7-475C-8028-3F311AFFA8EF}
+    {8089E2FB-BEA2-4136-A2A1-CCC39A0F99F4}
+    {7F3D9FFF-E132-4E66-9780-21CDD6DA9AAD}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171101T184941Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sorina
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "20c4eabd-0015-4e75-834f-f0053a526e49"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20190521T080704Z

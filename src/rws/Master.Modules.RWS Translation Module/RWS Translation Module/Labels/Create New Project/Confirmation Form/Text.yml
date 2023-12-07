@@ -1,0 +1,35 @@
+﻿---
+ID: "fa2c7dbf-febc-4d75-90b4-ca2f0d6cf6b6"
+Parent: "1aa84784-02f6-4084-bd9c-ace032bdf66e"
+Template: "7f3d9fff-e132-4e66-9780-21cdd6da9aad"
+Path: /sitecore/system/Modules/RWS Translation Module/Labels/Create New Project/Confirmation Form/Text
+SharedFields:
+- ID: "a38556f7-c55a-4e5d-9fdb-1ab31962dcd9"
+  Hint: Text
+  Value: "Your project, <strong>{project_name}</strong>, has been created."
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171101T191233Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sorina
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sorina
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9d8df654-3c19-4517-9785-bc8bbcbac3f3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\george
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180818T155517Z

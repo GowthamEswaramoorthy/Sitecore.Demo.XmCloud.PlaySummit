@@ -1,0 +1,35 @@
+﻿---
+ID: "c1738f1a-0698-43e9-b942-cb0ed969a6dc"
+Parent: "1aa84784-02f6-4084-bd9c-ace032bdf66e"
+Template: "8089e2fb-bea2-4136-a2a1-ccc39a0f99f4"
+Path: /sitecore/system/Modules/RWS Translation Module/Labels/Create New Project/Confirmation Form/OK
+Languages:
+- Language: en
+  Fields:
+  - ID: "e897df82-9690-42fb-aded-261e751f9024"
+    Hint: Text
+    Value: OK
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180818T172318Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\george
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\george
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7fee5f4-88a9-47ba-9a80-8790c9d3e671"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\george
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180818T185325Z

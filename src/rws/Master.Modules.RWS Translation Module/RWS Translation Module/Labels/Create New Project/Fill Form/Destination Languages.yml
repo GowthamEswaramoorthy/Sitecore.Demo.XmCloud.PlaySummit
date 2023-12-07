@@ -1,0 +1,27 @@
+﻿---
+ID: "1d8e6743-e9f2-4682-952a-757ff3c88ea7"
+Parent: "f7fd8657-00aa-4c92-80d4-2f87842199ed"
+Template: "8089e2fb-bea2-4136-a2a1-ccc39a0f99f4"
+Path: /sitecore/system/Modules/RWS Translation Module/Labels/Create New Project/Fill Form/Destination Languages
+Languages:
+- Language: en
+  Fields:
+  - ID: "e897df82-9690-42fb-aded-261e751f9024"
+    Hint: Text
+    Value: "Target Languages:"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171101T185708Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a7ec1dd6-3530-4ce6-8d0f-e5c8ba2ee31c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\george
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20180502T033053Z

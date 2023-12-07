@@ -1,0 +1,30 @@
+﻿---
+ID: "b65e4dfb-dd92-4b86-a1da-a02dbdb7ad8b"
+Parent: "962f2c89-98f0-4007-9762-cffa76fe9da0"
+Template: "4601d3c8-faee-476b-9d56-e17e88af57e4"
+Path: /sitecore/system/Modules/RWS Translation Module/Archive
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "dec8d2d5-e3cf-48b6-a653-8e69e2716641"
+  Hint: __Security
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171009T074044Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8851a941-407f-4ac6-ac41-ddf3cf963aac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\unicorn
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210609T115227Z

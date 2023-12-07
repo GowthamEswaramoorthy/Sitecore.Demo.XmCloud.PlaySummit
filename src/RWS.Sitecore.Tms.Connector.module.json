@@ -1,0 +1,98 @@
+{
+    "namespace": "RWS.Sitecore.Tms.Connector",
+    "description": "RWS Language Translation Module",
+    "items": {
+      "includes": [
+        {
+          "name": "Master.Template.RWS Modules",
+          "path": "/sitecore/templates/RWS Module",
+          "database": "master"
+        },
+        {
+          "name": "Master.Modules.RWS Translation Module",
+          "path": "/sitecore/system/Modules/RWS Translation Module",
+          "database": "master"
+        },
+        {
+          "name": "Master.RWSSheduler",
+          "path": "/sitecore/system/Tasks/Commands/Content Testing/RWSSheduler",
+          "database": "master"
+        },
+        {
+          "name": "Master.RWS_AutoCompleteTask",
+          "path": "/sitecore/system/Tasks/Schedules/RWS_AutoCompleteTask",
+          "database": "master"
+        },
+        {
+          "name": "Core.RWS - Add Item",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Add Item",
+          "database": "core"
+        },
+        {
+          "name": "Core.Add Language Versions",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Add Language Versions",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Add With Related Items",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Add With Related Items",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Add With Subitems",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Add With Subitems",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Archive Project",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Archive Project",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Get Project Status",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Get Project Status",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Get Translation",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Get Translation",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Mark Project Completed",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Mark Project Completed",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS - Send Draft Project",
+          "path": "/sitecore/content/Applications/Content Editor/Context Menues/Default/RWS - Send Draft Project",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS Projects Chunk",
+          "path": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/RWS Projects Chunk",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS Overview Chunk",
+          "path": "/sitecore/content/Applications/Content Editor/Ribbons/Chunks/RWS Overview Chunk",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS",
+          "path": "/sitecore/content/Applications/Content Editor/Ribbons/Ribbons/Default/RWS",
+          "database": "core"
+        },
+        {
+          "name": "Core.RWS Strip",
+          "path": "/sitecore/content/Applications/Content Editor/Ribbons/Strips/RWS Strip",
+          "database": "core"
+        },
+        {
+          "name": "Core.WebEdit.RWS",
+          "path": "/sitecore/content/Applications/WebEdit/Ribbons/WebEdit/RWS",
+          "database": "core"
+        }
+      ]
+    }
+  }
