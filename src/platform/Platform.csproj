@@ -47,6 +47,9 @@
     <Reference Include="RWS.Sitecore.Tms.Connector">
       <HintPath>..\..\rws\RWS.Sitecore.Tms.Connector.dll</HintPath>
     </Reference>
+    <Reference Include="RWS.Tms.Mantra.API">
+      <HintPath>..\..\rws\RWS.Tms.Mantra.API.dll</HintPath>
+    </Reference>
     <Reference Include="Spe">
       <HintPath>lib\Spe.dll</HintPath>
       <Private>False</Private>
