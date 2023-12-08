@@ -18,9 +18,6 @@
       "targetPath": "/"
     }
   ],
-  "deploItems": {
-    "modules": ["RWS.Sitecore.Tms.Connector.module.*"]
-  },
   "postActions": {
     "actions": {
       "warmUpCm": {
