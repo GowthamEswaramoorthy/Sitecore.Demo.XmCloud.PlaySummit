@@ -83,6 +83,16 @@
     <Content Include="App_Config\Include\Sitecore.Media.config" />
     <Content Include="App_Config\Include\Sitecore.Demo.Edge.Website.config" />
     <Content Include="App_Config\Include\Sitecore.Demo.Edge.Website.Custom.config" />
+    <Content Include="sitecore modules\RWS\Dialogs\CreateUpdateDraft.aspx" />
+    <Content Include="sitecore modules\RWS\Dialogs\DraftProject.aspx" />
+    <Content Include="sitecore modules\RWS\Dialogs\ProjectsOverview.aspx" />
+    <Content Include="sitecore modules\RWS\ExperienceEditor\Commands\AddItem.js" />
+    <Content Include="sitecore modules\RWS\images\btnMoveLeft1.png" />
+    <Content Include="sitecore modules\RWS\images\btnMoveLeft2.png" />
+    <Content Include="sitecore modules\RWS\images\btnMoveRight1.png" />
+    <Content Include="sitecore modules\RWS\images\btnMoveRight2.png" />
+    <Content Include="sitecore modules\RWS\images\RWS_logo-rgb.png" />
+    <Content Include="sitecore modules\RWS\images\sigla_SDL.png" />
     <Content Include="sitecore\shell\Themes\Standard\EdgeIcons.zip" />
     <Content Include="Utilities\ClearAllCaches.aspx" />
     <Content Include="Utilities\ResetComponentsLibraryId.aspx" />
