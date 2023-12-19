@@ -6,3 +6,4 @@
 4. [Deploying to XM Cloud](deploying.md)
 5. [Upgrading](upgrading.md)
 6. [Contributing](contributing.md)
+7. [RWS Connector](rwsConnector.md)
