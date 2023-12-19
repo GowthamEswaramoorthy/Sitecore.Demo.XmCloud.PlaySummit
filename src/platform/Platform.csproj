@@ -105,6 +105,8 @@
     <Content Include="App_Config\Include\zzz.RWS.Sitecore.Tms.Connector\zzz.RWS.Sitecore.Tms.Connector.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="App_Data\items\core\items.core.rws.dat" />
+    <Content Include="App_Data\items\master\items.master.rws.dat" />
     <None Include="Platform.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="README.md" />

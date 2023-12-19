@@ -3,9 +3,7 @@
 ARG PARENT_IMAGE
 ARG SOLUTION_IMAGE
 ARG TOOLS_IMAGE
-ARG CONNECTOR
 
-FROM ${CONNECTOR} as connector
 # DEMO TEAM CUSTOMIZATION
 FROM ${SOLUTION_IMAGE} as solution
 # END CUSTOMIZATION
@@ -29,8 +27,6 @@ COPY --from=solution /artifacts/sitecore/ ./
 
 # Copy website images to allow displaying them in Horizon without EnableRelativeLinkProcessing
 COPY --from=solution /artifacts/src/rendering/public ./
-
-COPY --from=connector /module/cm/content ./
 
 # Perform transforms
 RUN (Get-ChildItem -Path 'C:\\inetpub\\wwwroot\\xdts\\web*.xdt' -Recurse ) | `
